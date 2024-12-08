@@ -1,0 +1,29 @@
+
+/* Styling for social share buttons */
+.social-share-buttons button {
+    margin: 15px 0; /* Added top and bottom margin of 15px */
+    padding: 10px 20px; /* Increased padding for bigger buttons */
+    border: none;
+    cursor: pointer;
+    color: white;
+    border-radius: 4px;
+    font-size: 14px;
+    width: 150px; /* Ensured larger, equal-width buttons */
+    display: inline-block;
+}
+
+.social-share-buttons button:hover {
+    opacity: 0.9;
+}
+
+.social-share-buttons {
+    margin: 15px 0; /* Adjusted top and bottom margin for the container */
+}
+
+.social-share-buttons .close-button {
+    color: #000000; /* Updated the 'x' button color to black */
+    font-size: 18px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
