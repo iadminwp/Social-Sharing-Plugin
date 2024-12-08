@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Social Share Plugin
-Plugin URI: https://lioneur.com/
+Plugin URI: https://github.com/iadminwp/Social-Sharing-Plugin
 Description: A simple plugin to share posts and pages on Facebook, X, WhatsApp, Lioneur, Pinterest, and Reddit.
 Version: 1.4
 Author: Lioneur
